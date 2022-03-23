@@ -10,10 +10,11 @@ public class C1Revision {
 class Car{
     int i=10;
     void show(){
-        System.out.println("Hello");
+        System.out.println("Hello hello ");
     }
 }
-        
+
+
 class Mercedes extends Car{
     @Override
     void show() {
